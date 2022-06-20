@@ -1,0 +1,25 @@
+{
+  "name": "open-source-library",
+  "version": "1.0.0",
+  "description": "Open Source JavaScript Library Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fr3ud/open-source-library.git"
+  },
+  "keywords": [
+    "opensource",
+    "library",
+    "boilerplate",
+    "template"
+  ],
+  "author": "Alexander Pavelko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fr3ud/open-source-library/issues"
+  },
+  "homepage": "https://github.com/Fr3ud/open-source-library#readme"
+}
